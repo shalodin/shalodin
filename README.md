@@ -24,6 +24,7 @@
 - Either a computer,phone,tablet or an Ipad
 
 - An access to the Internet
+- live link:https://shalodin.github.io/shalodin/
 
 ### Installation Process
 
