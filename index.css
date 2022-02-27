@@ -1,10 +1,17 @@
-*{
+
+    
+
+body{
     font-family: sans-serif;
     background-color:aqua;
+    font-size: 20px;
 }
 
 
 .welcome{
     color: red;
     text-align: center;
+}
+h4{
+    font-style: italic;
 }
