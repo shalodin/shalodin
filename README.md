@@ -2,7 +2,7 @@
 
 ##### Shalodin Chepkoech
 
-### It is a description of my portfolio which describes my entire journey as a developer and my qualifications too (my portfolio).
+### It is a description of my portfolio which describes my starting journey as a developer and towards my future career.
 
 ## Table of Content
 
